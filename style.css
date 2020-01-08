@@ -1,0 +1,28 @@
+body{
+  background-color: #336699;
+}
+
+.sectionmargin{
+  margin-top: 50px;
+}
+
+.cardmargin{
+  margin-top: 20px;
+}
+
+.skugga{
+  box-shadow: 10px 10px 15px grey;
+}
+.sidfot{
+  background-color: grey;
+  color: #336699;
+  padding: 30px;
+  margin-top: 150px;
+}
+.kolumnpadding{
+  padding-bottom: 15px;
+}
+
+.inriktningar{
+  background-color: lightgrey;
+}
